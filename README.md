@@ -12,7 +12,7 @@ A quiz application with a React frontend, Node.js backend, and PostgreSQL databa
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ralex91/quiz-app
    cd quiz-app
    ```
 
